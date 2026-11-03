@@ -12,7 +12,6 @@
 
 [About](#about-me) · [Leadership](#leadership--community-involvement) · [Skills](#technical-skills--tools) · [Projects](#featured-projects) · [Analytics](#github-analytics) · [Contact](#lets-connect)
 
-<img src="https://komarev.com/ghpvc/?username=cheshani-dananjana&label=Profile+Views&color=1F6FEB&style=flat-square&labelColor=161B22" alt="GitHub profile views counter" />
 
 </div>
 
@@ -32,7 +31,6 @@ I'm currently looking for a **Software Engineering internship** where I can cont
 | :--- | :--- |
 | **Treasurer** | NFORCE Club, NSBM |
 | **Secretary Team Member** | IEEE Student Branch, NSBM |
-| **Faculty Coordinator** | Faculty of Computing, NFORCE Club |
 
 <br />
 
