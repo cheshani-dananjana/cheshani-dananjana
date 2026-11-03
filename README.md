@@ -76,15 +76,34 @@ I'm currently looking for a **Software Engineering internship** where I can cont
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cheshani-dananjana&show_icons=true&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&ring_color=58A6FF&border_radius=10" alt="GitHub stats card for cheshani-dananjana" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheshani-dananjana&layout=compact&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_radius=10" alt="Most used languages card for cheshani-dananjana" />
-
-<img src="https://streak-stats.demolab.com/?user=cheshani-dananjana&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakNum=FFFFFF&currStreakLabel=A5D6FF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub contribution streak card for cheshani-dananjana" />
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=cheshani-dananjana&show_icons=true&theme=tokyonight"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=cheshani-dananjana&layout=compact&theme=tokyonight"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br />
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=cheshani-dananjana&theme=tokyonight&hide_border=true"
+        height="180"
+        alt="GitHub Contribution Streak"
+      />
+    </td>
+  </tr>
+</table>
 <br />
 
 ## Contribution Activity
